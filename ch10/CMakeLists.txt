@@ -1,5 +1,8 @@
 cmake_minimum_required (VERSION 3.6)
-project (Tutorial)
+project (Randwalk)
  
 # add the executable
-add_executable(Tutorial tutorial.cxx)
+add_library(VectLibs vect.cpp)
+
+add_executable(Randwalk randwalk.cpp)
+target_link_libraries(Randwalk VectLibs)
