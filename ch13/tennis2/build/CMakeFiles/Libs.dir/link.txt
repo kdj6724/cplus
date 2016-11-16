@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLibs.a  CMakeFiles/Libs.dir/tabtenn1.cpp.o
+/usr/bin/ranlib libLibs.a

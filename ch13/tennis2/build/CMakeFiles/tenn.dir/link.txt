@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/tenn.dir/usett1.cpp.o  -o tenn libLibs.a 

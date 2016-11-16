@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kdj6724/kdj/cprime/cplus/ch13/tennis2/tabtenn1.cpp
+iostream
+-
+tabtenn1.h
+/home/kdj6724/kdj/cprime/cplus/ch13/tennis2/tabtenn1.h
+
+/home/kdj6724/kdj/cprime/cplus/ch13/tennis2/tabtenn1.h
+string
+-
+
